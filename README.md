@@ -13,8 +13,4 @@ In the project directory, run:
 
 This creates a API endpoint that you can access at http://localhost:3000/projects
 
-
-then run 'npm start' in terminal
-
-Runs the app in the development mode.
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
