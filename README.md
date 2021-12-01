@@ -1,7 +1,7 @@
 # Frontend Assessment
 
-Take in a JSON object. Displays them and lets you sort and filter projects as needed.
-## Getting Started :fire:
+Display information grabbed from api end point. You can filter and sort the data.
+## Getting Started
 
 In the project directory, run:
 
