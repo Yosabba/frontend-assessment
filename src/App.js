@@ -12,7 +12,7 @@ const App = () => {
   const [sortParam, setSortParam] = useState("default");
 
   useEffect(() => {
-    fetch("http://localhost:800/projects")
+    fetch("http://localhost:8000/projects")
       .then((res) => res.json())
       .then((data) => {
         setProjects(data);
