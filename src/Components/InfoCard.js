@@ -47,7 +47,7 @@ const InfoCard = ({ info }) => {
       <Typography variant="h4" sx={{ ml: "3rem", mt: "3rem" }}>
         {info.name}
       </Typography>
-
+      <br />
       <Typography variant="h5" sx={{ ml: "3rem" }}>{`Created ${formatDate(
         info.created_at
       )}`}</Typography>
