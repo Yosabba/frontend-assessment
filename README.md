@@ -1,6 +1,6 @@
 # Frontend Assessment
 
-Display information grabbed from api end point. You can filter and sort the data.
+Display information grabbed from Api. You can filter and sort the data.
 # Getting Started
 
 In the project directory, run:
@@ -15,7 +15,7 @@ Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
 
 This creates a API endpoint that you can access at http://localhost:8000/projects
 
-# Screensshots
+# Screen Shots
 
 ![demo1](https://user-images.githubusercontent.com/85464248/144238834-e2a53aca-5007-4144-96c2-500ff1a74528.png)
 
